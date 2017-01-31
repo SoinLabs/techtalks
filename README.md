@@ -22,5 +22,5 @@ Date        Expositor    Topic
 * 	         <b>by</b> Marco	
 * <b>"React redux"</b> on  13/01/2017	<b>by</b> Jose Quesada	
 * <b>"sockets en GO"</b> on  13/01/2017	<b>by</b> Jason Cruz 
-* on 27/01/2017	<b>by</b> Jesus	
+* <b>"Ethical Hacking"</b> on 27/01/2017	<b>by</b> Jesus	
 * on 27/01/2017	<b>by</b> Luis	
