@@ -6,6 +6,7 @@ To store presentations and source code of tech talks.
 
 ## List of TechTalks
 Date        Expositor    Topic
+* <b>"cordova y telegramBot"</b> on --/--/--	<b>by</b> Ema	  
 * <b>"data scientis"</b> on 26/08/2016	<b>by</b> Rebeca	  
 * <b>"IoT""</b>  on  09/09/2016	<b>by</b>Sanchez	   
 * <b>"Internet of Visuals"</b> on   09/09/2016 <b>by</b>	Jesus	     
