@@ -25,3 +25,4 @@ Date        Expositor    Topic
 * <b>"sockets en GO"</b> on  13/01/2017	<b>by</b> Jason Cruz 
 * <b>"Ethical Hacking"</b> on 27/01/2017	<b>by</b> Jesus	
 * on 27/01/2017	<b>by</b> Luis	
+* <b>"Tendencias tecnologicas: Realidad Mixta"</b> on 10/02/2017	<b>by</b> A. Ulate	
