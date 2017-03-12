@@ -27,3 +27,4 @@ Date        Expositor    Topic
 * on 27/01/2017	<b>by</b> Luis
 * <b>"Tendencias tecnologicas: Realidad Mixta"</b> on 10/02/2017	<b>by</b> A. Ulate
 * <b>"Angular 2 material from material design"</b> on 24/02/2017    <b>by</b> Esteban C. Git repo [angular2-material](https://github.com/estebancas/angular2-material-demo.git) .
+* <b>"UI-UX-Visual and Motion Design"</b> on 10/03/2017    <b>by</b> Sr. Bryan A. Sotela
