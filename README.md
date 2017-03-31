@@ -29,4 +29,4 @@ Date        Expositor    Topic
 * <b>"Angular 2 material from material design"</b> on 24/02/2017    <b>by</b> Esteban C. Git repo [angular2-material](https://github.com/estebancas/angular2-material-demo.git) .
 * <b>"UI-UX-Visual and Motion Design"</b> on 10/03/2017    <b>by</b> Sr. Bryan A. Sotela
 * <b>"TemaXXX La candela picante "</b> on 24/03/2017    <b>by</b> Mr. Chico
-* <b>"IOT Intro  "</b> on 24/03/2017    <b>by</b> Diana Esquivel
+* <b>"IOT y RFID  "</b> on 24/03/2017    <b>by</b> Diana Esquivel
