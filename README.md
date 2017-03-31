@@ -20,7 +20,7 @@ Date        Expositor    Topic
 * <b>"Maneras de ser creativo"</b> on  18/11/2016	<b>by</b> Luis
 * on 18/11/2016	<b>by</b> christop
 * on 2/12/2016	 <b>by</b> Paula
-* 	         <b>by</b> Marco
+* on Unknown  <b>by</b> Marco
 * <b>"React redux"</b> on  13/01/2017	<b>by</b> Jose Quesada
 * <b>"sockets en GO"</b> on  13/01/2017	<b>by</b> Jason Cruz
 * <b>"Ethical Hacking"</b> on 27/01/2017	<b>by</b> Jesus
@@ -28,3 +28,5 @@ Date        Expositor    Topic
 * <b>"Tendencias tecnologicas: Realidad Mixta"</b> on 10/02/2017	<b>by</b> A. Ulate
 * <b>"Angular 2 material from material design"</b> on 24/02/2017    <b>by</b> Esteban C. Git repo [angular2-material](https://github.com/estebancas/angular2-material-demo.git) .
 * <b>"UI-UX-Visual and Motion Design"</b> on 10/03/2017    <b>by</b> Sr. Bryan A. Sotela
+* <b>"TemaXXX La candela picante "</b> on 24/03/2017    <b>by</b> Mr. Chico
+* <b>"IOT Intro  "</b> on 24/03/2017    <b>by</b> Diana Esquivel
