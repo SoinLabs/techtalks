@@ -30,3 +30,6 @@ Date        Expositor    Topic
 * <b>"UI-UX-Visual and Motion Design"</b> on 10/03/2017    <b>by</b> Sr. Bryan A. Sotela
 * <b>"Web APIs (WebBluetooth & WebRTC)"</b> on 24/03/2017    <b>by</b> Francisco Cerdas aka Chico
 * <b>"IOT y RFID  "</b> on 24/03/2017    <b>by</b> Diana Esquivel
+* <b>"---"</b> on 24/03/2017    <b>by</b> ---
+* <b>"Industria de los videojuegos"</b> on 05/05/2017    <b>by</b> A. Ulate
+* <b>"Contenido Viral"</b> on 05/05/2017    <b>by</b> Luis
