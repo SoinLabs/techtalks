@@ -33,3 +33,5 @@ Date        Expositor    Topic
 * <b>"---"</b> on 24/03/2017    <b>by</b> ---
 * <b>"Industria de los videojuegos"</b> on 05/05/2017    <b>by</b> A. Ulate
 * <b>"Contenido Viral"</b> on 05/05/2017    <b>by</b> Luis
+* <b>"Amazon LEX - Bots"</b> on 19/05/2017    <b>by</b> Sanchez
+* <b>"Algo de diseno :)"</b> on 19/05/2017    <b>by</b> Saieth
