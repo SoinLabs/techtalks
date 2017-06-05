@@ -35,3 +35,4 @@ Date        Expositor    Topic
 * <b>"Contenido Viral"</b> on 05/05/2017    <b>by</b> Luis
 * <b>"Amazon LEX - Bots"</b> on 19/05/2017    <b>by</b> Sanchez
 * <b>"Algo de diseno :)"</b> on 19/05/2017    <b>by</b> Saieth
+* <b>"Android Studio 3.0" :)"</b> on 02/06/2017    <b>by</b> Jesus
