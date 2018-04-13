@@ -30,7 +30,7 @@ Date        Expositor    Topic
 * <b>"UI-UX-Visual and Motion Design"</b> on 10/03/2017    <b>by</b> Sr. Bryan A. Sotela
 * <b>"Web APIs (WebBluetooth & WebRTC)"</b> on 24/03/2017    <b>by</b> Francisco Cerdas aka Chico
 * <b>"IOT y RFID  "</b> on 24/03/2017    <b>by</b> Diana Esquivel
-* <b>"---"</b> on 24/03/2017    <b>by</b> ---
+* <b>"Rust"</b> on 24/03/2017    <b>by</b> Jason Cruz
 * <b>"Industria de los videojuegos"</b> on 05/05/2017    <b>by</b> A. Ulate
 * <b>"Contenido Viral"</b> on 05/05/2017    <b>by</b> Luis
 * <b>"Amazon LEX - Bots"</b> on 19/05/2017    <b>by</b> Sanchez
@@ -39,3 +39,4 @@ Date        Expositor    Topic
 * <b>"Predicción de terremotos mediante Machine Learning"</b> on 02/06/2017    <b>by</b> Andrés
 * <b>"Android Things"</b> on 16/03/2018    <b>by</b> Chico
 * <b>"MWC"</b> on 16/03/2018    <b>by</b> Chuz
+* <b>"Flutter"</b> on 13/04/2018    <b>by</b> Jason Cruz
